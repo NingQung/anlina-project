@@ -1,0 +1,14 @@
+{
+  "name": "project-anlina-proloude",
+  "version": "1.0.0",
+  "description": "testusebot",
+  "main": "bot.js",
+  "author": "WVS",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.5.3",
+    "request": "^2.88.2",
+    "winston": "^3.3.3"
+  }
+}
